@@ -30,4 +30,20 @@ v0.1.0
 
 ## Status
 
-🚧 Under Development
+# Day 1
+
+## Completed
+- Created repository
+- Created project structure
+- Added README
+- Created develop branch
+
+## Learned
+- Git branches
+- Git workflow
+
+## Challenges
+- ...
+
+## Tomorrow
+- Task-002
